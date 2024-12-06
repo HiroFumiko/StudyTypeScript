@@ -1,1 +1,4 @@
-# StudyTypeScript
+# TypeScript学習用
+
+## 目標
+MUIライブラリでデザイン部分を作成し，axiosを用いて適当なサイトの情報を表示させるだけのアプリ作成
